@@ -1,0 +1,47 @@
+{
+  "name": "HelloWorld",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "ActivitiesMathSquareSum": "[1.0.0]",
+    "ActivitiesStateNameConverter": "[1.0.1]",
+    "ActivitiesUnzipperTest": "[0.1.0]",
+    "Enate.Workflow.Activities": "[7.0.11]",
+    "Microsoft.Activities.Extensions": "[2.0.6.9]",
+    "SharePoint": "[1.0.2]",
+    "UiPath.Cognitive.Activities": "[2.0.6716.19435]",
+    "UiPath.Credentials.Activities": "[1.1.6479.13204]",
+    "UiPath.Database.Activities": "[1.2.6863.32528]",
+    "UiPath.Excel.Activities": "[2.3.6682.26635]",
+    "UiPath.Mail.Activities": "[1.1.6562.21018]",
+    "UiPath.Python.Activities": "[1.0.6716.23055]",
+    "UiPath.System.Activities": "[18.3.6877.28276]",
+    "UiPath.UIAutomation.Activities": "[18.3.6877.28298]",
+    "UiPath.WebAPI.Activities": "[1.2.6863.33980]",
+    "UiPath.Word.Activities": "[1.2.6863.34260]",
+    "UiPathTeam.Cognitive.Microsoft.SensitiveImageDesign": "[1.0.6807.29651]",
+    "UiPathTeam.GetCryptoValues.Activities": "[1.0.0.2]",
+    "UiPathTeamGetNbrExchangeRatesActivities": "[1.0.0.5]"
+  },
+  "schemaVersion": "3.2",
+  "studioVersion": "18.2",
+  "projectVersion": "1.0.7213.18783",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ]
+  },
+  "projectType": "Workflow",
+  "libraryOptions": {
+    "includeOriginalXaml": false,
+    "privateWorkflows": []
+  },
+  "arguments": {
+    "input": [],
+    "output": []
+  },
+  "webServices": []
+}
